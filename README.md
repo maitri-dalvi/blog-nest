@@ -1,6 +1,6 @@
 # BlogNest
 
-This is a blog application built using JavaScript, CSS, MongoDB, Node.js, and Express.js, EJS. The application allows users to create, read, update, and delete blog posts.
+This is a blog application built using JavaScript, CSS, MongoDB, Node.js, Express.js and EJS. The application allows a user to create, read, update, and delete blog posts.
 
 
 
