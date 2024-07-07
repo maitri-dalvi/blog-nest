@@ -23,8 +23,9 @@ https://github.com/maitri-dalvi/blog-nest/assets/144388185/37aeb5e6-bae3-42f3-9a
 
 ## Installation
 
-npm i bcrypt connect-mongo cookie-parser dotenv ejs express express-ejs-layouts express-session jsonwebtoken method-override mongoose
-npm i nodemon --save-dev
+npm i bcrypt connect-mongo cookie-parser dotenv ejs express express-ejs-layouts express-session jsonwebtoken method-override mongoose 
+
+nodemon --save-dev
 
 
 ## Usage
